@@ -18,7 +18,10 @@
     "serve": "^13.0.2",
     "tachyons": "^4.12.0",
     "tsparticles": "^1.37.5",
-    "web-vitals": "^2.1.2"
+    "web-vitals": "^2.1.2",
+    "engines": {
+      "node": "v16.13.1"
+    }
   },
   "scripts": {
     "dev": "react-scripts start",
